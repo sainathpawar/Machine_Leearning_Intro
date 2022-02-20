@@ -6,3 +6,5 @@ https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B0
 
 If you like to watch full video:
 
+https://youtu.be/cVo3uBwOGWM
+
